@@ -1,0 +1,28 @@
+tensorflow==2.13.0
+torch==2.0.1
+scikit-learn==1.3.1
+
+
+pandas==2.0.3
+numpy==1.24.3
+
+# Preprocesamiento de texto y NLP
+nltk==3.8
+spacy==3.6.0
+
+
+mlflow==2.7.1
+boto3==1.28.0  # Para interactuar con S3 desde Python
+
+
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Utilidades para AWS SageMaker
+sagemaker==2.172.0
+
+
+#pydantic==1.7
+
+# Otras utilidades
+joblib==1.3.2
